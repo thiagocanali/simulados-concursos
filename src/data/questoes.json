@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "concurso": "PRF",
+    "materia": "Legislação de Trânsito",
+    "pergunta": "Segundo o CTB, as vias rurais subdividem-se em:",
+    "opcoes": ["Rodovias e estradas", "Vias coletoras e locais", "Autoestradas e caminhos", "Vias de trânsito rápido"],
+    "correta": 0,
+    "explicacao": "O Art. 60 do CTB define que as vias rurais são compostas por rodovias (pavimentadas) e estradas (não pavimentadas)."
+  },
+  {
+    "id": 2,
+    "concurso": "CNU",
+    "materia": "Direito Administrativo",
+    "pergunta": "Qual princípio impede que o administrador público atue com o objetivo de prejudicar ou beneficiar pessoas determinadas?",
+    "opcoes": ["Legalidade", "Eficiência", "Impessoalidade", "Publicidade"],
+    "correta": 2,
+    "explicacao": "O princípio da impessoalidade determina que a Administração deve tratar todos os cidadãos sem favoritismos ou perseguições."
+  },
+  {
+    "id": 3,
+    "concurso": "Banco do Brasil",
+    "materia": "Conhecimentos Bancários",
+    "pergunta": "O CMN (Conselho Monetário Nacional) é um órgão:",
+    "opcoes": ["Executivo", "Normativo", "Fiscalizador", "Operacional"],
+    "correta": 1,
+    "explicacao": "O CMN é o órgão deliberativo (normativo) máximo do Sistema Financeiro Nacional."
+  }
+]
